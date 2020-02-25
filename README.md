@@ -1,1 +1,1 @@
-# Machine-Learning-A-Z-Programs
+# Machine-Learning-A-Z-Assignments
